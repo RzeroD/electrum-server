@@ -152,7 +152,8 @@ We will download the latest git snapshot for Electrum to configure and install i
     $ git clone https://github.com/spesmilo/electrum-server.git
     $ cd electrum-server
     $ sudo apt-get install python-setuptools
-    $ sudo configure
+    $ chmod +x configure
+    $ sudo ./configure
     $ sudo python setup.py install
 
 See the INSTALL file for more information about the configure and install commands.
