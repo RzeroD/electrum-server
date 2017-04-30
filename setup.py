@@ -18,7 +18,6 @@ setup(
         'electrumserver.server_processor',
         'electrumserver.processor',
         'electrumserver.version',
-        'scrypt',
         'electrumserver.ircthread',
         'electrumserver.stratum_tcp'
     ],
