@@ -21,8 +21,8 @@ logfile = /var/log/electrum.log
 donation_address =
 
 [network]
-pubkey_address = 68
-script_address = 115
+pubkey_address = 32
+script_address = 64
 genesis_hash = 000000743190fbaea62d4748157e22ef44850668c071f3709883b83ef24ec0ff
 
 [leveldb]
